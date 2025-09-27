@@ -1,4 +1,8 @@
+# Witcher-FirefoxCSS
 
+## What is it?
+
+A custom new tab and home page theme for firefox made by modifying Usercontent.CSS 
 
 ## How to use?
 
