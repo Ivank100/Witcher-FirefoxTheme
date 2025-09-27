@@ -27,3 +27,9 @@ First we are going to have to enable CSS tinkering in firefox:
 
 
 <img width="2556" height="1272" alt="image" src="https://github.com/user-attachments/assets/ae9dd674-b97e-4e72-9015-eaaac985e3d3" />
+
+
+## Uninstall
+
+If you wish to remove the theme, follow the previous steps to navigate to your profile folder and in there simply delete the folder titled "chrome"
+
