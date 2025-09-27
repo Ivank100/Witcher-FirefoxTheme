@@ -1,4 +1,3 @@
-# Witcher-FirefoxCSS
 
 ## What is it?
 
